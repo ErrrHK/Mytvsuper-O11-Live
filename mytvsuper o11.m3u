@@ -1,0 +1,281 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="mytvsuper" tvg-id="mytvsuper/28ai" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 28 AI 智慧賽馬
+http://192.168.31.118:8811/stream/mytvsuper/28ai/master.m3u8
+
+#EXTINF:2 group-title="mytvsuper" tvg-id="mytvsuper/animax" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Animax
+http://192.168.31.118:8811/stream/mytvsuper/animax/master.m3u8
+
+#EXTINF:3 group-title="mytvsuper" tvg-id="mytvsuper/arirangtv" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Arirang TV
+http://192.168.31.118:8811/stream/mytvsuper/arirangtv/master.m3u8
+
+#EXTINF:4 group-title="mytvsuper" tvg-id="mytvsuper/axn" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] AXN
+http://192.168.31.118:8811/stream/mytvsuper/axn/master.m3u8
+
+#EXTINF:5 group-title="mytvsuper" tvg-id="mytvsuper/cgtn-1" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] CGTN (中國環球電視網)英語頻道
+http://192.168.31.118:8811/stream/mytvsuper/cgtn-1/master.m3u8
+
+#EXTINF:6 group-title="mytvsuper" tvg-id="mytvsuper/cgtn" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] CGTN (中國環球電視網)記錄頻道
+http://192.168.31.118:8811/stream/mytvsuper/cgtn/master.m3u8
+
+#EXTINF:7 group-title="mytvsuper" tvg-id="mytvsuper/dw" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] DW
+http://192.168.31.118:8811/stream/mytvsuper/dw/master.m3u8
+
+#EXTINF:8 group-title="mytvsuper" tvg-id="mytvsuper/fashionbox" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] FashionBox
+http://192.168.31.118:8811/stream/mytvsuper/fashionbox/master.m3u8
+
+#EXTINF:9 group-title="mytvsuper" tvg-id="mytvsuper/france24" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] France 24
+http://192.168.31.118:8811/stream/mytvsuper/france24/master.m3u8
+
+#EXTINF:10 group-title="mytvsuper" tvg-id="mytvsuper/globaltrekker" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Global Trekker
+http://192.168.31.118:8811/stream/mytvsuper/globaltrekker/master.m3u8
+
+#EXTINF:11 group-title="mytvsuper" tvg-id="mytvsuper/kix" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] KIX
+http://192.168.31.118:8811/stream/mytvsuper/kix/master.m3u8
+
+#EXTINF:12 group-title="mytvsuper" tvg-id="mytvsuper/lovenature4k" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Love Nature 4K
+http://192.168.31.118:8811/stream/mytvsuper/lovenature4k/master.m3u8
+
+#EXTINF:13 group-title="mytvsuper" tvg-id="mytvsuper/lovenaturehd" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Love Nature HD
+http://192.168.31.118:8811/stream/mytvsuper/lovenaturehd/master.m3u8
+
+#EXTINF:14 group-title="mytvsuper" tvg-id="mytvsuper/mezzolivehd" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Mezzo Live HD
+http://192.168.31.118:8811/stream/mytvsuper/mezzolivehd/master.m3u8
+
+#EXTINF:15 group-title="mytvsuper" tvg-id="mytvsuper/mytvsuper18" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] myTV SUPER 18台
+http://192.168.31.118:8811/stream/mytvsuper/mytvsuper18/master.m3u8
+
+#EXTINF:16 group-title="mytvsuper" tvg-id="mytvsuper/mytvsuperfree" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] myTV SUPER FREE
+http://192.168.31.118:8811/stream/mytvsuper/mytvsuperfree/master.m3u8
+
+#EXTINF:17 group-title="mytvsuper" tvg-id="mytvsuper/mytvsuper3" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] myTV SUPER 直播足球3台
+http://192.168.31.118:8811/stream/mytvsuper/mytvsuper3/master.m3u8
+
+#EXTINF:18 group-title="mytvsuper" tvg-id="mytvsuper/mytvsuper4" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] myTV SUPER 直播足球4台
+http://192.168.31.118:8811/stream/mytvsuper/mytvsuper4/master.m3u8
+
+#EXTINF:19 group-title="mytvsuper" tvg-id="mytvsuper/mytvsuper5" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] myTV SUPER 直播足球5台
+http://192.168.31.118:8811/stream/mytvsuper/mytvsuper5/master.m3u8
+
+#EXTINF:20 group-title="mytvsuper" tvg-id="mytvsuper/mytvsuper6" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] myTV SUPER 直播足球6台
+http://192.168.31.118:8811/stream/mytvsuper/mytvsuper6/master.m3u8
+
+#EXTINF:21 group-title="mytvsuper" tvg-id="mytvsuper/nhkworldjapan" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] NHK World-Japan
+http://192.168.31.118:8811/stream/mytvsuper/nhkworldjapan/master.m3u8
+
+#EXTINF:22 group-title="mytvsuper" tvg-id="mytvsuper/nickjr" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Nick Jr.
+http://192.168.31.118:8811/stream/mytvsuper/nickjr/master.m3u8
+
+#EXTINF:23 group-title="mytvsuper" tvg-id="mytvsuper/nickelodeon" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Nickelodeon
+http://192.168.31.118:8811/stream/mytvsuper/nickelodeon/master.m3u8
+
+#EXTINF:24 group-title="mytvsuper" tvg-id="mytvsuper/popc" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] PopC
+http://192.168.31.118:8811/stream/mytvsuper/popc/master.m3u8
+
+#EXTINF:25 group-title="mytvsuper" tvg-id="mytvsuper/rockaction" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] ROCK Action
+http://192.168.31.118:8811/stream/mytvsuper/rockaction/master.m3u8
+
+#EXTINF:26 group-title="mytvsuper" tvg-id="mytvsuper/rock" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] ROCK 綜藝娛樂
+http://192.168.31.118:8811/stream/mytvsuper/rock/master.m3u8
+
+#EXTINF:27 group-title="mytvsuper" tvg-id="mytvsuper/superkidschannel" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] SUPER Kids Channel
+http://192.168.31.118:8811/stream/mytvsuper/superkidschannel/master.m3u8
+
+#EXTINF:28 group-title="mytvsuper" tvg-id="mytvsuper/thrill" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] Thrill
+http://192.168.31.118:8811/stream/mytvsuper/thrill/master.m3u8
+
+#EXTINF:29 group-title="mytvsuper" tvg-id="mytvsuper/tvbj1" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] TVB J1
+http://192.168.31.118:8811/stream/mytvsuper/tvbj1/master.m3u8
+
+#EXTINF:30 group-title="mytvsuper" tvg-id="mytvsuper/tvbplus" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] TVB Plus
+http://192.168.31.118:8811/stream/mytvsuper/tvbplus/master.m3u8
+
+#EXTINF:31 group-title="mytvsuper" tvg-id="mytvsuper/tvn" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] tvN
+http://192.168.31.118:8811/stream/mytvsuper/tvn/master.m3u8
+
+#EXTINF:32 group-title="mytvsuper" tvg-id="mytvsuper/zoomoo" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] ZooMoo
+http://192.168.31.118:8811/stream/mytvsuper/zoomoo/master.m3u8
+
+#EXTINF:33 group-title="mytvsuper" tvg-id="mytvsuper/null-13" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 中國電影頻道
+http://192.168.31.118:8811/stream/mytvsuper/null-13/master.m3u8
+
+#EXTINF:34 group-title="mytvsuper" tvg-id="mytvsuper/null-20" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 中央電視台綜合頻道 (港澳版)
+http://192.168.31.118:8811/stream/mytvsuper/null-20/master.m3u8
+
+#EXTINF:35 group-title="mytvsuper" tvg-id="mytvsuper/1" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 互動窗 1
+http://192.168.31.118:8811/stream/mytvsuper/1/master.m3u8
+
+#EXTINF:36 group-title="mytvsuper" tvg-id="mytvsuper/2" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 互動窗 2
+http://192.168.31.118:8811/stream/mytvsuper/2/master.m3u8
+
+#EXTINF:37 group-title="mytvsuper" tvg-id="mytvsuper/null-7" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 亞洲劇台
+http://192.168.31.118:8811/stream/mytvsuper/null-7/master.m3u8
+
+#EXTINF:38 group-title="mytvsuper" tvg-id="mytvsuper/null-23" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 亞洲新聞台
+http://192.168.31.118:8811/stream/mytvsuper/null-23/master.m3u8
+
+#EXTINF:39 group-title="mytvsuper" tvg-id="mytvsuper/null-15" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 創世電視
+http://192.168.31.118:8811/stream/mytvsuper/null-15/master.m3u8
+
+#EXTINF:40 group-title="mytvsuper" tvg-id="mytvsuper/null-4" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 千禧經典台
+http://192.168.31.118:8811/stream/mytvsuper/null-4/master.m3u8
+
+#EXTINF:41 group-title="mytvsuper" tvg-id="mytvsuper/null-24" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 半島電視台英語頻道
+http://192.168.31.118:8811/stream/mytvsuper/null-24/master.m3u8
+
+#EXTINF:42 group-title="mytvsuper" tvg-id="mytvsuper/null-12" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 天映經典頻道
+http://192.168.31.118:8811/stream/mytvsuper/null-12/master.m3u8
+
+#EXTINF:43 group-title="mytvsuper" tvg-id="mytvsuper/null-9" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 娛樂新聞台
+http://192.168.31.118:8811/stream/mytvsuper/null-9/master.m3u8
+
+#EXTINF:44 group-title="mytvsuper" tvg-id="mytvsuper/null-10" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 戲曲台
+http://192.168.31.118:8811/stream/mytvsuper/null-10/master.m3u8
+
+#EXTINF:45 group-title="mytvsuper" tvg-id="mytvsuper/null-2" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 明珠台
+http://192.168.31.118:8811/stream/mytvsuper/null-2/master.m3u8
+
+#EXTINF:46 group-title="mytvsuper" tvg-id="mytvsuper/null-16" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 東方衛視國際頻道
+http://192.168.31.118:8811/stream/mytvsuper/null-16/master.m3u8
+
+#EXTINF:47 group-title="mytvsuper" tvg-id="mytvsuper/91" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 澳視澳門 91台
+http://192.168.31.118:8811/stream/mytvsuper/91/master.m3u8
+
+#EXTINF:48 group-title="mytvsuper" tvg-id="mytvsuper/92" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 澳視葡文 92台
+http://192.168.31.118:8811/stream/mytvsuper/92/master.m3u8
+
+#EXTINF:49 group-title="mytvsuper" tvg-id="mytvsuper/macau96" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 澳門-Macau 96台
+http://192.168.31.118:8811/stream/mytvsuper/macau96/master.m3u8
+
+#EXTINF:50 group-title="mytvsuper" tvg-id="mytvsuper/95" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 澳門綜藝 95台
+http://192.168.31.118:8811/stream/mytvsuper/95/master.m3u8
+
+#EXTINF:51 group-title="mytvsuper" tvg-id="mytvsuper/94" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 澳門資訊 94台
+http://192.168.31.118:8811/stream/mytvsuper/94/master.m3u8
+
+#EXTINF:52 group-title="mytvsuper" tvg-id="mytvsuper/93" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 澳門體育 93台
+http://192.168.31.118:8811/stream/mytvsuper/93/master.m3u8
+
+#EXTINF:53 group-title="mytvsuper" tvg-id="mytvsuper/null-1" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 無線新聞台
+http://192.168.31.118:8811/stream/mytvsuper/null-1/master.m3u8
+
+#EXTINF:54 group-title="mytvsuper" tvg-id="mytvsuper/null-14" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 無線衛星亞洲台
+http://192.168.31.118:8811/stream/mytvsuper/null-14/master.m3u8
+
+#EXTINF:55 group-title="mytvsuper" tvg-id="mytvsuper/null-22" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 無線衛星新聞台
+http://192.168.31.118:8811/stream/mytvsuper/null-22/master.m3u8
+
+#EXTINF:56 group-title="mytvsuper" tvg-id="mytvsuper/null-21" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 神州新聞台
+http://192.168.31.118:8811/stream/mytvsuper/null-21/master.m3u8
+
+#EXTINF:57 group-title="mytvsuper" tvg-id="mytvsuper/null-6" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 粵語片台
+http://192.168.31.118:8811/stream/mytvsuper/null-6/master.m3u8
+
+#EXTINF:58 group-title="mytvsuper" tvg-id="mytvsuper/null-11" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 美亞電影台
+http://192.168.31.118:8811/stream/mytvsuper/null-11/master.m3u8
+
+#EXTINF:59 group-title="mytvsuper" tvg-id="mytvsuper/null" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 翡翠台
+http://192.168.31.118:8811/stream/mytvsuper/null/master.m3u8
+
+#EXTINF:60 group-title="mytvsuper" tvg-id="mytvsuper/4k" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 翡翠台 4K
+http://192.168.31.118:8811/stream/mytvsuper/4k/master.m3u8
+
+#EXTINF:61 group-title="mytvsuper" tvg-id="mytvsuper/test" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 翡翠台TEST
+http://192.168.31.118:8811/stream/mytvsuper/test/master.m3u8
+
+#EXTINF:62 group-title="mytvsuper" tvg-id="mytvsuper/null-5" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 華語劇台
+http://192.168.31.118:8811/stream/mytvsuper/null-5/master.m3u8
+
+#EXTINF:63 group-title="mytvsuper" tvg-id="mytvsuper/null-17" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 鳳凰衛視中文台
+http://192.168.31.118:8811/stream/mytvsuper/null-17/master.m3u8
+
+#EXTINF:64 group-title="mytvsuper" tvg-id="mytvsuper/null-18" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 鳳凰衛視資訊台
+http://192.168.31.118:8811/stream/mytvsuper/null-18/master.m3u8
+
+#EXTINF:65 group-title="mytvsuper" tvg-id="mytvsuper/null-19" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 鳳凰衛視香港台
+http://192.168.31.118:8811/stream/mytvsuper/null-19/master.m3u8
+
+#EXTINF:66 group-title="mytvsuper" tvg-id="mytvsuper/null-3" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 黃金翡翠台
+http://192.168.31.118:8811/stream/mytvsuper/null-3/master.m3u8
+
+#EXTINF:67 group-title="mytvsuper" tvg-id="mytvsuper/null-8" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] 黃金華劇台
+http://192.168.31.118:8811/stream/mytvsuper/null-8/master.m3u8
+
+#EXTINF:68 group-title="TW LIVE" tvg-id="twlive/null-23" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE]  歐飛動作電影台
+http://192.168.31.118:8811/stream/twlive/null-23/master.m3u8
+
+#EXTINF:69 group-title="TW LIVE" tvg-id="twlive/golden" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] Golden 強片台
+http://192.168.31.118:8811/stream/twlive/golden/master.m3u8
+
+#EXTINF:70 group-title="TW LIVE" tvg-id="twlive/null-6" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 中天亞洲精采台
+http://192.168.31.118:8811/stream/twlive/null-6/master.m3u8
+
+#EXTINF:71 group-title="TW LIVE" tvg-id="twlive/null-15" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 中天新聞台
+http://192.168.31.118:8811/stream/twlive/null-15/master.m3u8
+
+#EXTINF:72 group-title="TW LIVE" tvg-id="twlive/null-1" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 中視
+http://192.168.31.118:8811/stream/twlive/null-1/master.m3u8
+
+#EXTINF:73 group-title="TW LIVE" tvg-id="twlive/null-14" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 中視新聞
+http://192.168.31.118:8811/stream/twlive/null-14/master.m3u8
+
+#EXTINF:74 group-title="TW LIVE" tvg-id="twlive/null-3" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 公視金獎台
+http://192.168.31.118:8811/stream/twlive/null-3/master.m3u8
+
+#EXTINF:75 group-title="TW LIVE" tvg-id="twlive/null" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 台視
+http://192.168.31.118:8811/stream/twlive/null/master.m3u8
+
+#EXTINF:76 group-title="TW LIVE" tvg-id="twlive/null-13" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 台視新聞
+http://192.168.31.118:8811/stream/twlive/null-13/master.m3u8
+
+#EXTINF:77 group-title="TW LIVE" tvg-id="twlive/null-21" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 周星馳台
+http://192.168.31.118:8811/stream/twlive/null-21/master.m3u8
+
+#EXTINF:78 group-title="TW LIVE" tvg-id="twlive/null-17" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 寰宇新聞台
+http://192.168.31.118:8811/stream/twlive/null-17/master.m3u8
+
+#EXTINF:79 group-title="TW LIVE" tvg-id="twlive/null-16" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 寰宇新聞台灣台
+http://192.168.31.118:8811/stream/twlive/null-16/master.m3u8
+
+#EXTINF:80 group-title="TW LIVE" tvg-id="twlive/null-12" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 寰宇財經台
+http://192.168.31.118:8811/stream/twlive/null-12/master.m3u8
+
+#EXTINF:81 group-title="TW LIVE" tvg-id="twlive/null-5" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 東森娛樂台
+http://192.168.31.118:8811/stream/twlive/null-5/master.m3u8
+
+#EXTINF:82 group-title="TW LIVE" tvg-id="twlive/null-22" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 歐飛電影台
+http://192.168.31.118:8811/stream/twlive/null-22/master.m3u8
+
+#EXTINF:83 group-title="TW LIVE" tvg-id="twlive/null-7" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 經典劇場
+http://192.168.31.118:8811/stream/twlive/null-7/master.m3u8
+
+#EXTINF:84 group-title="TW LIVE" tvg-id="twlive/null-2" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 華視
+http://192.168.31.118:8811/stream/twlive/null-2/master.m3u8
+
+#EXTINF:85 group-title="TW LIVE" tvg-id="twlive/null-11" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 華視新聞
+http://192.168.31.118:8811/stream/twlive/null-11/master.m3u8
+
+#EXTINF:86 group-title="TW LIVE" tvg-id="twlive/null-24" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 蠟筆小新(中文版)
+http://192.168.31.118:8811/stream/twlive/null-24/master.m3u8
+
+#EXTINF:87 group-title="TW LIVE" tvg-id="twlive/null-9" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 龍華偶像台
+http://192.168.31.118:8811/stream/twlive/null-9/master.m3u8
+
+#EXTINF:88 group-title="TW LIVE" tvg-id="twlive/null-4" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 龍華卡通台
+http://192.168.31.118:8811/stream/twlive/null-4/master.m3u8
+
+#EXTINF:89 group-title="TW LIVE" tvg-id="twlive/null-8" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 龍華戲劇台
+http://192.168.31.118:8811/stream/twlive/null-8/master.m3u8
+
+#EXTINF:90 group-title="TW LIVE" tvg-id="twlive/null-10" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 龍華日韓台
+http://192.168.31.118:8811/stream/twlive/null-10/master.m3u8
+
+#EXTINF:91 group-title="TW LIVE" tvg-id="twlive/null-20" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 龍華洋片台
+http://192.168.31.118:8811/stream/twlive/null-20/master.m3u8
+
+#EXTINF:92 group-title="TW LIVE" tvg-id="twlive/null-18" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 龍華經典台
+http://192.168.31.118:8811/stream/twlive/null-18/master.m3u8
+
+#EXTINF:93 group-title="TW LIVE" tvg-id="twlive/null-19" tvg-logo="" provider="TW LIVE" provider-logo="" provider-type="iptv",[TW LIVE] 龍華電影台
+http://192.168.31.118:8811/stream/twlive/null-19/master.m3u8
+
