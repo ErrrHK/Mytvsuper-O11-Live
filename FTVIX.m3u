@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,翡翠台
+https://live.tvfix.org/live/jade/index.m3u8
+#EXTINF:-1,TVB Plus
+https://live.tvfix.org/live/tvbplus/index.m3u8
+#EXTINF:-1,無綫新聞台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1,明珠台
+https://live.tvfix.org/live/pearl/index.m3u8
+#EXTINF:-1,娛樂新聞台
+https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1,鳳凰衛視中文台
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1,鳳凰衛視資訊台
+https://live.tvfix.org/live/fwzx/index.m3u8
+#EXTINF:-1,鳳凰衛視香港台
+https://live.tvfix.org/live/fwxg/index.m3u8
+#EXTINF:-1,Animax
+https://live.tvfix.org/live/animax/index.m3u8
+#EXTINF:-1,無線衛星亞洲台
+https://live.tvfix.org/live/tvbs/index.m3u8
+#EXTINF:-1,無線衛星新聞台
+https://live.tvfix.org/live/tvbsnews/index.m3u8
+#EXTINF:-1,亞洲新聞台
+https://live.tvfix.org/live/newsasia/index.m3u8
+#EXTINF:-1,半島電視台英語頻道
+https://live.tvfix.org/live/aijazeera/index.m3u8
+#EXTINF:-1,France 24
+https://live.tvfix.org/live/france24/index.m3u8
+#EXTINF:-1,NHK World-Japan
+https://live.tvfix.org/live/nhkworld/index.m3u8
+#EXTINF:-1,Arirang TV
+https://live.tvfix.org/live/arirang/index.m3u8
+#EXTINF:-1,中國電影頻道
+https://live.tvfix.org/live/cmc/index.m3u8
