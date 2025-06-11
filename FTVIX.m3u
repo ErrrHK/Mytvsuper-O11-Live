@@ -31,5 +31,7 @@ https://live.tvfix.org/live/france24/index.m3u8
 https://live.tvfix.org/live/nhkworld/index.m3u8
 #EXTINF:-1,Arirang TV
 https://live.tvfix.org/live/arirang/index.m3u8
+#EXTINF:-1,中央電視台綜合頻道 (港澳版)
+https://live.tvfix.org/live/cctv1hd/index.m3u8
 #EXTINF:-1,中國電影頻道
 https://live.tvfix.org/live/cmc/index.m3u8
